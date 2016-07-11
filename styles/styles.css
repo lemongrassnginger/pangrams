@@ -1,5 +1,4 @@
 body {
-	/*font-family: 'Open Sans', sans-serif;*/
 	font-family: 'Indie Flower', cursive;
 	width: 600px;
   margin: 0 auto;
@@ -11,7 +10,6 @@ html {
   background-color: #00539F;
 }
 h1 {
-	font-family: 'Indie Flower', cursive;
   font-size: 60px;
   text-align: center;
 	margin: 0;
